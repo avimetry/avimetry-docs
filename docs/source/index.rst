@@ -3,17 +3,27 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Avimetry's documentation
+Welcome to Avimetry's Documentation!
 ====================================
+
+Avimetry is a bot with fun, moderation, and more!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Modules:
+   
+   Animals
+   Bot Info
+   Fun
+   Games
+   Help
+   Images
+   Meta 
+   Moderation
+   Server Management
+   Settings
+   Music
 
-
-
-Modules
---------
 
 * :ref:`genindex`
 * :ref:`modindex`
